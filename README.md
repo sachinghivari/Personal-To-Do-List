@@ -28,3 +28,7 @@ Deployed here 👉 [Live Demo](https://personal-to-do-list-project.netlify.app/)
 - Changes were pushed using:
   ```bash
   git push -u origin feature1
+
+  📸 Screenshots
+  ![App Screenshot](Sreenshot.jpeg)
+  
