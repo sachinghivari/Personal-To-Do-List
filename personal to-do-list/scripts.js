@@ -18,6 +18,12 @@
      checkBtn.classList.add('check');
      task.appendChild(checkBtn);
 
+
+     let editBtn = document.createElement('button');
+     editBtn.innerHTML = `<i class="fa-solid fa-pen-to-square"></i>`;
+     editBtn.classList.add('edit');
+     task.appendChild(editBtn);
+
      let deleteBtn = document.createElement('button');
      deleteBtn.innerHTML = `<i class="fa-solid fa-trash"></i>`;
      deleteBtn.classList.add('delete');
