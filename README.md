@@ -29,6 +29,3 @@ Deployed here 👉 [Live Demo](https://personal-to-do-list-project.netlify.app/)
   ```bash
   git push -u origin feature1
 
-  📸 Screenshots
-  ![App Screenshot](Sreenshot.jpeg)
-  
