@@ -30,7 +30,7 @@ Deployed here 👉 [Live Demo](https://personal-to-do-list-project.netlify.app/)
   git push -u origin feature1
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 👉 You can just copy-paste this into `README.md` inside your repo.  
 
