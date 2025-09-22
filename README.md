@@ -28,9 +28,9 @@ Deployed here 👉 [Live Demo](https://personal-to-do-list-project.netlify.app/)
 - Changes were pushed using:
   ```bash
   git push -u origin feature1
-## 📸 Screenshot
+## 📸 App Screenshot
 
-![App Screenshot](../Screenshot.png)
+![App Screenshot](personal%20to-do-list/Screenshot.png)
 
 👉 You can just copy-paste this into `README.md` inside your repo.  
 
