@@ -19,7 +19,7 @@ Deployed here 👉 [Live Demo](https://personal-to-do-list-project.netlify.app/)
 ## 📂 Tech Stack
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla)**  
+- **JavaScript 
 
 ---
 
