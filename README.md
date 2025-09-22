@@ -3,7 +3,6 @@
 A simple and interactive **To-Do List** project built using **HTML, CSS, and JavaScript**.  
 This project helps users to add, edit, mark as completed, and delete tasks.  
 
-Deployed here 👉 [Live Demo](https://personal-to-do-list-project.netlify.app/)
 
 ---
 
