@@ -11,7 +11,7 @@ body{
 
 .container{
     
-   max-width: 500px;
+   width: 280px;
    height: 50px;
     padding: 20px;
     background: linear-gradient(135deg, #ff9a9e, #fad0c4);
@@ -48,7 +48,7 @@ button{
 /* js css */
 
 .task{
-    width: 200px;
+    width: 400px;
     height: 30px;
     padding: 8px;
     background: linear-gradient(90deg, #fbc2eb, #a6c1ee);
@@ -60,21 +60,35 @@ button{
 
 .task li{
     list-style: none;
-    width: 100px;
+    width: 300px;
+    margin-left: 6px;
 }
 
 .check{
    color: orange;
    background-color: #fff;
+    padding:  0 8px;
 }
 .check:hover{
    background-color: orange;
    color: #fff;
 }
 
+.edit{
+   background-color: #fff;
+    color: yellowgreen;
+     padding:  0 8px;
+}
+
+.edit:hover{
+    background-color: yellowgreen;
+    color: #fff;
+}
+
 .delete{
     color: red;
     background-color: #fff;
+    padding:  0 8px;
 }
 
 .delete:hover{
